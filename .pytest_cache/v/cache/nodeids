@@ -1,0 +1,5 @@
+[
+  "moto-taxi/tests/test_frontend.py::TestFrontend::test_language_selector",
+  "moto-taxi/tests/test_frontend.py::TestFrontend::test_page_title",
+  "moto-taxi/tests/test_frontend.py::TestFrontend::test_search_functionality"
+]
